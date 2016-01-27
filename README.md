@@ -17,6 +17,7 @@ $ npm run test
 ```
 $ node build
 $ npm run build
+```
 
 # License
 Copyright (c) 2016 Todd Anderson
