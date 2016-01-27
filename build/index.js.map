@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":"AAAA;;;;;;;;;;;;AAKA,QAAQ,GAAR,CAAY,eAAK,IAAL,CAAU,QAAQ,GAAR,EAAV,EAAyB,OAAzB,CAAZ;AACA,wBAAS,KAAT","file":"index.js","sourcesContent":["'use strict';\n\nimport path from 'path';\nimport greeting from './greeting';\n\nconsole.log(path.join(process.cwd(), 'hello'));\ngreeting('Ted');\n"]}
